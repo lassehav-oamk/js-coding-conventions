@@ -17,7 +17,7 @@ else
 
 
 /**
- * Array spacing
+ * Array spacing example
  */
 var derArray = ['hello','world','how\'re','doing'];
 var derArray = ['hello', 'world', 'how\'re', 'doing'];
