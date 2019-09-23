@@ -1,6 +1,6 @@
 
 /**
- * Ternary operator vs if
+ * Ternary operator vs if operator
  */
 let a = (z ? x : y)
 
